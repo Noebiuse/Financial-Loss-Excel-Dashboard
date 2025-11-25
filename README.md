@@ -3,6 +3,9 @@
 ## Project Goal
 The goal of this dashboard is to show financial losses caused by supply chain delays. It helps managers understand where losses come from and which areas need improvement.
 
+## Dashboard Visualization
+![Financial Loss Dashboard - Advanced Excel](Financial_Loss_Dashboard_EN.jpg)
+
 ---
 
 ## Main Features
