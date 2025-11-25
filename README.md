@@ -1,38 +1,29 @@
-# Financial Loss Dashboard (Advanced Excel)
+# Financial Loss Dashboard (Excel)
 
 ## Project Goal
-The primary goal of this dashboard is to provide a clear, interactive visualization of financial losses caused by supply chain delays. It aims to give managers a focused tool for cost reduction planning and diagnostics.
+The goal of this dashboard is to show financial losses caused by supply chain delays. It helps managers understand where losses come from and which areas need improvement.
 
-***
+---
 
-## Dashboard Visualization
-![Financial Loss Dashboard - Advanced Excel](Financial_Loss_Dashboard_EN.jpg)
+## Main Features
 
-***
+### 1. Simple Filtering
+Users can filter the data with **Slicers** by material and time period. This makes it easy to see which materials create the highest losses.
 
-## Key Features & Business Value
+### 2. Clear Financial View
+The dashboard shows Financial Loss by Month and the number of days with delays. This helps connect daily operational issues (delays) to their financial impact.
 
-This dashboard is built with the following features to drive operational decisions:
+### 3. Basic What If Analysis
+The file includes a small **What If tool**. Managers can enter a percentage of expected loss reduction and see the **projected savings**. This supports strategic planning and goal setting.
 
-### 1. Dynamic Diagnostics
-* **Functionality:** Uses **Slicers** to filter financial loss data instantly by material (e.g., Steel, Chemicals, Plastic) and time period.
-* **Value:** Allows users to quickly diagnose which material or operational area contributes to the largest share of the total financial loss, focusing attention where it is needed most.
+### 4. File Structure and Data Handling
+The dashboard includes **protected sheets** and hidden raw data to keep formulas and source information safe.
 
-### 2. Financial Focus
-* **Visualization:** Clearly visualizes the **Financial Loss by Month** and the **Count of Days With Delay**.
-* **Value:** Directly connects daily operational issues (delays) to their financial impact (PLN), providing clear justification for process improvements.
-
-### 3. What-If Analysis (Strategic Planning)
-* **Tool:** Includes a built-in **"What-If"** calculator.
-* **Value:** Managers can input a target loss reduction percentage (e.g., 10%) and instantly see the calculated **Projected Savings (PLN)**. This transforms the report from a historical log into a dynamic strategic planning tool.
-
-### 4. Professional Delivery
-* **Data Integrity:** The final file is **password-protected** and contains **hidden sheets** to secure the underlying raw data and calculation formulas.
-
-***
+---
 
 ## Skills Demonstrated
-* Advanced MS Excel (Pivot Tables, Lookups, Conditional Formatting)
-* Data Visualization & Dashboard Design
-* Financial Modeling (What-If Scenarios)
-* Data Integrity & Security Practices
+* Excel Pivot Tables & Formulas
+* **Data Visualization** (добавлено)
+* Basic Dashboard Design
+* What If Analysis
+* Data Cleaning and Organization
